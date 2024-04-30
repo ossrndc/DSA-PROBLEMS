@@ -31,7 +31,7 @@ Print the number of trailing zeros in n!.
 **Output**
 
     4
-    5
+    4
     0
     1
     1
