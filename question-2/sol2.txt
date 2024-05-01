@@ -1,0 +1,18 @@
+// Online C++ compiler to run C++ program online
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+    int t;
+    cin>>t;
+    while(t--){
+        int n,i=1,ans=0,d=5;
+        cin>>n;
+        while(n>=d){
+            ans+=(n/d);
+            d=d*5;
+        }
+        cout<<ans<<endl;
+    }
+
+ return 0;
+}
