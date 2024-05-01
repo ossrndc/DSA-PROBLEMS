@@ -49,3 +49,6 @@ Can you help Vinayak to get seminar hall ?
 In the first test case, we only have one stick, hence we can't form any polygon.  
 In the second test case, the two sticks aren't enough to form a polygon either.  
 In the third test case, we can use the 4 sticks of length 3 to create a square.
+
+
+  
